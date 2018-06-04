@@ -1,32 +1,20 @@
 ---
 layout: post
+navigation: true
 title: Pas passé loin...
 date: 2016-08-13 17:49:23.000000000 +07:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags:
-- pluie
-- timelapse
-meta:
-  _edit_last: '1'
-  _s2mail: 'yes'
-  _yoast_wpseo_content_score: '30'
-  _yoast_wpseo_primary_category: '36'
-  _oembed_10486423c037bab3c252ed0614cc4634: <div class="embed-wrappar"><iframe width="1110"
-    height="833" src="https://www.youtube.com/embed/Mbkb6jBazcA?feature=oembed"  allowfullscreen></iframe></div>
-  _oembed_time_10486423c037bab3c252ed0614cc4634: '1477995540'
-author:
-  login: Julien
-  email: julien@liabeuf.fr
-  display_name: Julien Liabeuf
-  first_name: Julien
-  last_name: Liabeuf
+categories:
+- Voyage
+author: julien
+tags: voyage
+subclass: 'post tag-voyage'
+logo: 'assets/images/ghost.png'
 ---
-<p>https://www.youtube.com/embed/Mbkb6jBazcA</p>
+
+{% youtube Mbkb6jBazcA %}
+
 <p>J'ai découvert il y à peu une application de "Time Lapse" pour téléphone. Le Time Lapse, ce sont ces vidéos qui sont crées à partir de centaines de photos consécutives.</p>
+
 <p>Depuis, je m'amuse à faire quelques vidéos. Pas toujours intéressant certes.</p>
+
 <p>Une chose sympa de haut du 35ème étage, c'est qu'il est facile de voir à quel point les intempéries sont localisées. A quelques kilomètres près, il peut pleuvoir à torrents, ou ne pas pleuvoir du tout. Sur cette vidéos, nous avons échappé au gros de la pluie, mais d'autre n'ont pas eu cette chance.</p>
